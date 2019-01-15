@@ -1,10 +1,10 @@
 {
   "name": "random-person",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Choose a random person from a set list of people",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC"
