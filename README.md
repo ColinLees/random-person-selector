@@ -39,8 +39,12 @@
 Grad the index.js file and amend the `people` array with whom-so-ever you want and you're good to go!
 
 ## Example
-```js
-node index.js
+```console
+$ node index.js
+```
+or
+```console
+$ npm start
 ```
 
 ## FAQ
