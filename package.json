@@ -1,11 +1,12 @@
 {
   "name": "random-person",
-  "version": "1.1.0",
-  "description": "Choose a random person from a set list of people",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "Choose a random person from a set list of people or choose random teams from a list of people",
+  "main": "choosePerson.js",
   "scripts": {
-    "start": "node index.js"
+    "person": "node choosePerson.js",
+    "teams": "node chooseTeam.js"
   },
-  "author": "",
+  "author": "Colin Lees",
   "license": "ISC"
 }

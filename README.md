@@ -25,6 +25,8 @@
 ## Features
 - Picking random people from a list
 
+- Picking random teams from a list
+
 - Making your life easier when making teams
 
 - Ensuring people don't get angry at you for putting them with that person they hate
@@ -36,15 +38,17 @@
 - People to sort/pick on
 
 ## Installation
-Grad the index.js file and amend the `people` array with whom-so-ever you want and you're good to go!
+Edit the `people.json` file with whom-so-ever you want and you're good to go!
 
 ## Example
 ```console
-$ node index.js
+$ node choosePerson.js
+$ node chooseTeams.js
 ```
 or
 ```console
-$ npm start
+$ npm run person
+$ npm run teams
 ```
 
 ## FAQ
